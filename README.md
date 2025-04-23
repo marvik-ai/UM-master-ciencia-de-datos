@@ -1,4 +1,4 @@
-# Workshop: Despliegue de un modelo de Sentiment Analysis Model utilizando FastAPI, Streamlit y Docker
+# UM - Master - Ciencia de Datos - Modelos de Lenguajes - Clase 1: Despliegue de un modelo de Sentiment Analysis Model utilizando FastAPI, Streamlit y Docker
 
 ## Descripción del Proyecto
 Este proyecto consiste en desarrollar y desplegar una API con FastAPI que utiliza un modelo de machine learning basado en BERT para realizar análisis de sentimiento de reseñas de películas. La API proporcionará una interfaz para calificar reseñas en una escala de 1 a 5 estrellas basada en la inferencia del modelo que recibe la review en formato de texto plano. Además, se contará con una interfaz de usuario sencilla desarrollada con Streamlit, que permitirá a los usuarios ingresar texto y recibir una calificación automática.

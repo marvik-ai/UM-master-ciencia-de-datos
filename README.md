@@ -1,3 +1,5 @@
+URL Planilla Grupos: https://docs.google.com/spreadsheets/d/1ft_r4iGLiGFE3WFzFYoxKQzetdtWpCkg/edit?usp=sharing&ouid=110569650319601117642&rtpof=true&sd=true
+
 # UM - Master - Ciencia de Datos - Modelos de Lenguajes - Clase 1: Despliegue de un modelo de Sentiment Analysis Model utilizando FastAPI, Streamlit y Docker
 
 ## Descripción del Proyecto
